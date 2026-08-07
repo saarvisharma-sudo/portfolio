@@ -1,2 +1,2 @@
 # portfolio
-website to promote my work
+website to showcase my work
